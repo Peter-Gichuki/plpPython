@@ -1,0 +1,21 @@
+File handling in Python is a breeze,
+Open a file, read with ease.
+Use 'with' to safely open the gate,
+So you don’t forget to close it late.
+
+Try to read a file that’s there,
+But what if it's gone? Do you dare?
+Catch the error with try and except,
+Your program won't crash — it's prepped!
+
+You can read, write, or even append,
+Just pick the mode, my coding friend.
+And if your file's too big to chew,
+Read line by line — that's what pros do!
+
+Always remember to handle exceptions right,
+So bugs don’t creep in late at night.
+With Python’s tools so neatly packed,
+Your file skills will stay on track!
+
+
